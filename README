@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1510
+
+This plugin highlights words that do not belong to the language in c,cpp and java-buffers.  This way you can instantly see if you have typed the right variable/package/class name right.
+
+I just did this to say: "Hey look, my vim is as good as your eclipse!" :)
+
+This is my first plugin and also my first submission, so please, bear with me.
